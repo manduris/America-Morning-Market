@@ -1,0 +1,5 @@
+{
+  "name": "America Morning Market AI",
+  "description": "AI-powered market analysis dashboard that provides comprehensive US stock market insights, linking daily trends with global economic factors. Features report scheduling and real-time data analysis.",
+  "requestFramePermissions": []
+}
